@@ -1,6 +1,5 @@
 #!/bin/bash
 
-apt install curl
 cd /opt
 git clone https://github.com/Tourker/shvirtd-example-python.git
 cd /opt/shvirtd-example-python
